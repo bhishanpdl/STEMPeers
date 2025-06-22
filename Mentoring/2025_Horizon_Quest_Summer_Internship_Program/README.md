@@ -1,3 +1,13 @@
+# Class: Introduction to AI & ML
+- Mentor: Bhishan Poudel (Senior Data Scientist, Cencora)
+
+## Class Time:  
+- 7pm-8pm Wednesdays ( 8 weeks starting from 2025-june-18)
+
+## Class Medium: Google Meet
+- Click this link of google meet
+- https://meet.google.com/zpq-zecd-toh
+
 # How to Submit Homework
 
 ## Step 01: Get the homeworks and class materials in Box Drive
