@@ -6,6 +6,7 @@
 - All the class materials are shared here.
 - All homeworks are posted here.
 - All students have access to classes, but they have separate folders to upload thier homeworks.
+- You can also view class materials at github: https://github.com/bhishanpdl/STEMPeers/tree/main/Mentoring/2025_Horizon_Quest_Summer_Internship_Program
 
 ## Step 02: Solve all homeworks in Google Colab
 - [Google Colaboratory (Colab)](https://colab.research.google.com/)
