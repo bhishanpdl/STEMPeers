@@ -1,17 +1,27 @@
-# Introduction
+# How to Submit Homework
 
+## Step 01: Get the homeworks and class materials in Box Drive
+- https://www.dropbox.com/home/Bhishan%20Cohort/Classes
+- STEMPEERS prefers Box Drive for the collaboration.
+- All the class materials are shared here.
+- You can also find homeworks here.
+- All students have access to classes, but they have separate folders to upload thier homeworks.
 
-Please use Google colab for assignments:
+## Step 02: Solve all homeworks in Google Colab
 - [Google Colaboratory (Colab)](https://colab.research.google.com/)
-- Then share the notebook.
+- You need to create your own google colab
+- When done please share the google colab with me: `bhishanpdl@gmail.com`
+- You also need to download the google colab notebook and upload in Box Drive.
+- Once you share the colab link and upload in Box drive, then it will be graded.
 
-You can view class materials at this Box Drive folder 'Classes':
 
-https://www.dropbox.com/home/Bhishan%20Cohort/Classes
+## Step 03: Box Drive link to upload your homework
+- In the folder "Homeworks", there is folder of your name like "Firstname_Lastname"
+- For classes you all have access to the folder, but to submit homework, you have only access to your name folder.
+- Each week you need to create folder like: `week_n` and put all your homeworks there.
 
 
-Please upload your homeworks in respective links:
-
+## Box Drive Links to upload your homework
 - https://www.dropbox.com/home/Bhishan%20Cohort/Homeworks/Pragya_Saxena  
 - https://www.dropbox.com/home/Bhishan%20Cohort/Homeworks/Keshav_Ajith  
 - https://www.dropbox.com/home/Bhishan%20Cohort/Homeworks/Puneeth_Nunna  
@@ -23,4 +33,5 @@ Please upload your homeworks in respective links:
 
 
 Test link:
-- https://www.dropbox.com/home/Bhishan%20Cohort/Homeworks/Test
+- https://www.dropbox.com/home/Bhishan%20Cohort/Homeworks/
+
